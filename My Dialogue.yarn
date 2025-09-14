@@ -1,0 +1,176 @@
+title: Start
+position: -416,205
+---
+April 1945. With Berlin surrounded by the Soviet's, the war in Europe comes to a close. However, despite the upcoming total capitulation of their German ally, the Japanese Empire continues to fight on fiercely. With the "Tenth Army" fighting the Japs on the island of Okinawa, MacArthur fights them on the island of Luzon, part of the Philippines. Here, is where I, Heartman and my friend, Hewitt fight. Under the command of MacArthur, and against the forces of Tomoyuki Yamashita, the so-called "Tiger of Malaya".
+<<jump TheBattle>>
+===
+title: TheBattle
+position: -34,213
+---
+Lieutenant: "Hartmann!"
+Upon hearing my name, I stand to attention
+Hartmann: "Yes, sir!"
+The Lieutenant approaches me, and, judging by his expression, I've either messed up or he's got some bad news. Once beside me, he points ahead of us while simultaneously handing me a pair of binoculars.
+Lieutenant: "You see that building?"
+Hartmann: "Yes, sir"
+Lieutenant: "We must advance forward, but in order to do so we must pass by that very building. Which is very unfortunate for us, considering that in there is a damn "Jap" waiting with his Type 92 for us to pass along by. Now, here's what I want you to do son, pick some men to go along with you and sort him out before this becomes a damn meat grinder."
+Hartmann: "Yes, sir"
+Upon hearing the command, I pick Hewitt, alongside 2 others, in helping me take out the machine gunner. After which, we approach the building. We reach a considerable distance from the building, how should I get inside?
+<<jump HowToGetInside>>
+===
+title:HowToGetInside
+position: 264,214
+---
+-> Sneak in
+    <<jump SneakIn>>
+-> Charge in 
+    <<jump ChargeIn>>
+===
+title: SneakIn
+position: 582,-63
+---
+I, alongside Hewitt, successfully manage to sneak into the building undetected, while the two others remain outside to shoot and distract in case of emergency. Together, we cautiously walk upstairs to where the enemy soldiers are. With them in the room, what's the best way to approach this? I would…
+<<jump SneakInApproach>>
+===
+title: SneakInApproach
+position: 802,193
+---
+-> Throw a grenade into the room 
+    <<jump ThrowGrenade>>
+-> Keep sneaking in 
+    <<jump KeepSneakingIn_BadEnding>>
+===
+title: ChargeIn
+position: 595,435
+---
+I whisper my plan to charge to my teammates and they all nod in approval.
+Hewitt: You sure charging in is the best idea? I mean… we could get shot.
+Second Soldier: Not if we provide covering fire. That way, we can get you guys in safely.
+Third Soldier: No. Cover fire would alert the entire base and we don't know how many are in there. We could get overwhelmed.
+Hewitt: Shit. That's true. What do you think we should do, Hartmann?
+Hartmann: I think…
+<<jump ChargeInCoverFire>>
+===
+title: ChargeInCoverFire
+position: 1521,165
+---
+-> Provide cover fire 
+    <<jump ProvideCoverFire>>
+-> No cover fire 
+    <<jump NoCoverFire_BadEnding>>
+===
+title: ThrowGrenade
+position: 1094,-52
+---
+I throw a grenade into the room and wait for the sound of the explosion. Upon hearing it, Hewitt and I run into the room to see if there's any survivors, and, if so, eliminate them. When entering the room, I see the machine gunner and the loader, the former has died from the explosion and the latter is stood up, rifle in hand. Upon seeing me, he charges at me with his rifle and bayonet.
+I grab his rifle and wrestle him over it before he can stab me. We're stood in the middle of the room, struggling against one another. To gain the upper hand and win this fight, I would…
+<<jump FightMachineGunner>>
+===
+title: FightMachineGunner
+position: 2408.69140625,87.83679580688477
+---
+-> Push the Soldier 
+    <<jump PushSoldier>>
+-> Kick the Soldier 
+    <<jump KickSoldier>>
+===
+title: ProvideCoverFire
+position: 1574,396
+---
+Hartmann: You're right. It might be dangerous, but with you too providing cover fire, we might survive.
+Third soldier: But...
+Hartmann: No buts. It's a risk we gotta take and my guts tells me it's the only choice we've got right now. Hewitt, you're with me.
+The two soldiers nod their heads simultaneously.
+Hartmann: Remember, quick cover fire and stay hidden. Stay safe.As the two others stay back and shoot at the window of the building, providing covering fire, Hewitt and I charge the building, narrowly escaping for our lives. Once inside of the building, we cautiously walk upstairs to where the enemy soldiers are. With them in the room, what's the best way to approach this? I would…
+<<jump SneakInApproach>> // This leads back to the same choice as SneakIn
+===
+title: NoCoverFire_BadEnding
+position: 1660.0150146484375,-84.9068832397461
+---
+Hartmann: No cover fire. You're right. We aren't sure how many of them might be in there and we can't risk ruining the plan. Both of you stay here. Hewitt and I would charge in and clear the room.
+I check our weapons one last time and with a loud scream, I exit my hiding place with Hewitt. We charge at the base of the building but we underestimated our enemy. 
+An object whips past me, striking Hewitt in the stomach, dropping him instantly. 
+My guts tell me to stop and help but I keep running towards the building and just as I crossed what I deem to be the the safe line, something ripples through me and my vision fades with immense speed before I drop to the floor and take my final breath.
+BAD ENDING
+---
+<<end>>
+===
+title: KeepSneakingIn_BadEnding
+position: 1160,406
+---
+As I sneak in with Hewit, one of the enemy soldier suddenly notices us and alerts his mate. 
+Before Hewitt and I can react, the barrel of the gun turns toward us and with a loud bang, I felt a sharp pain tear through my chest. I stumble backwards, clutching my chest and then the world goes dark.
+BAD ENDING.
+---
+<<end>>
+===
+title: PushSoldier
+position: 2669,368
+---
+The struggle intensifies as I try to push the enemy down to the floor. However, when attempting to do so, he kicks me in the stomach. With this attack, my posture weakens and my legs become more unstable. Having gained the upper hand against me, the enemy, using his grip on the rifle, pushes me down to the ground. Seeing this, Hewitt charges and tackles the enemy to the ground.
+The ensuing struggle on the floor between them is savage, brutal and exceptionally animalistic. All civic mindedness, all appearance and all reputation is lost. They fight amongst one another like desperate primates, before the enemy gains the upper hand against Hewitt, and, before I can react, stabs him to death. Upon seeing this, I swiftly withdraw my pistol and shoot him to death. The mission is over, and, with both enemy soldiers dead, the battle has concluded in victory. But in the process, I lost a friend. Hewitt, the man I've fought alongside with in this war, the man who charged the enemy when my life was in danger, has died. I crouch next to his corpse and close his eyes, unable to bear the guilt within me.
+Heartman: Its all my fault. I should've helped him. I should have done something. Or maybe I'm wrong. What if it's the government's fault. They sent us on this death path anyway; they should be the one to blame.
+<<jump BlameDecision>>
+===
+title: BlameDecision
+position: 2015,71
+---
+-> Blame myself 
+    <<jump BlameMyself_GriefEnding>>
+-> Blame the government 
+    <<jump BlameGovernment_AntiWarEnding>>
+===
+title: KickSoldier
+position: 2607.34521484375,-234.34544372558594
+---
+I kick the enemy soldier, and, with this attack, his posture weakens and his legs become more unstable. Thus, having gained the upper hand, I push him down to the ground using my grip on the rifle. Seeing this, Hewitt shoots the enemy while he's down, killing him too. And thus, with both enemy soldier's dead, the fight is over.
+A couple of weeks after the battle, the "Second World War" comes to an end, and with this, I find myself plagued by a dilemma of my own accord. I wish to stay in the USMC (United States Marine Corps) as a marine, but the Lieutenant had something else in mind. I could either…
+<<jump PostWarDecision>>
+===
+title: PostWarDecision
+  
+position: 2823.34130859375,60.93327331542969
+---
+-> Stay as a Marine 
+    <<jump StayAsMarine_NewEnemyEnding>>
+-> Advance Through the Ranks 
+    <<jump AdvanceThroughRanks_BasiloneEnding>>
+===
+title: StayAsMarine_NewEnemyEnding
+position: 3032.404541015625,-205.96994018554688
+---
+Staying as a marine takes me back into the warzone. I go on to fight in both the Korean war and the Vietnam war. At this point, I realise that the new enemy threatening western civilization is no longer Fascism, National-Socialism, nor Imperialism, but Communism.
+NEW ENEMY ENDING.
+---
+<<end>>
+===
+title: AdvanceThroughRanks_BasiloneEnding
+  
+position: 3108.2183837890625,371.0818176269531
+---
+I decide to advance through the ranks of the USMC and the Lieutenant promotes me to a drill sergeant. With my new role, I begin teaching and training the new generations of marines in discipline, combat, warfare, and weapon expertise, like John Basilone before me.
+BASILONE ENDING.
+---
+<<end>>
+===
+title: BlameMyself_GriefEnding
+  
+position: 2118,408
+---
+Heartman: Yes, its all my fault. I… I don't deserve to live anymore. My shame is too much for the others to witness.
+I look at the gun on the ground and pick it up. Biting down on the cold hard barrel, I say my last wishes to God and pray the He brings Hewitt back to me. With my finger on the trigger, I pull the trigger, and the world goes dark.
+GRIEF ENDING.
+---
+<<end>>
+===
+title: BlameGovernment_AntiWarEnding
+  
+position: 2219.1263427734375,-165.4235382080078
+---
+Heartman: No, it couldn't be my fault. I… we were both fighting for a better future…a better world. The Lieutenant has to know about this.
+I carry my Hewitt's lifeless corpse on my shoulder and hobble my way back to camp. One could say I was foolish or perhaps I was naïve. But only a fool would think that the government cares about the lives wasted in war. That right. No one cared. I give Hewitt a proper burial as I get to camp and for the rest of the war, I pinned the fault on America. It was for their cause that he died. It was for their sake that he is in the ground.
+It took years but eventually I move on and I set my eyes on a future where war is no more. I set up banners and organise protests against the upcoming Korean and Vietnam War. No more would innocent men die for the sake of the government. No more would men like Hewitt, lose their life over something insignificant.
+ANTI WAR ENDING.
+---
+<<end>>
+===
