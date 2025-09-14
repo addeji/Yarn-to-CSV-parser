@@ -1,3 +1,5 @@
+Yarn-to-CSV-parser that tkes a yarn spinner script and sorts them according to lines and characters might not explain it well but you get the gist of it :)
+
 1)Direct .yarn Reading: The script now opens and reads .yarn files line by line.
 
 2)Syntax-Aware: It looks for title:, ---, and === to understand the structure of your nodes.
